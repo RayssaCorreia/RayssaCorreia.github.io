@@ -1,4 +1,3 @@
-# RayssaCorreia.github.io
 # :sparkles:**Rayssa Correia**:sparkles:
 
 ## Uma breve apresentação sobre mim!
@@ -16,5 +15,12 @@
 ### - Aprendendo inglês.
 ### - Colocar imagem :stuck_out_tongue_winking_eye:kkkkk...
 
+
 ## O que espero daqui pra frente
-### - Esse mundo é novo para mim, estou fascinada com quantas áreas tanto de mercado como conhecimento geral.
+### - Esse mundo é novo para mim, estou fascinada com quantas áreas, tanto de mercado como conhecimento. Espero aprender e me apronfundar em alguma área e assim poder contribuir ainda mais para o crescimento desse mundo tecnológico.
+![mundo](http://www.guiaolasp.com.br/wp-content/uploads/2021/06/tic_nas_empresas.jpg)
+<!--
+fontes:
+https://www.canva.com/design/DAE0lgTORIw/XQnhbksXnwM920govPvFRg/edit?category=tADbfqfbIxE
+https://www.youtube.com/watch?v=TsaLQAetPLU
+-->
